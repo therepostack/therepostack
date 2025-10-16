@@ -44,13 +44,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therepostack&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therepostack&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=therepostack&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🎬 Latest YouTube Videos
-<!-- Replace this link with a real YouTube API integration later -->
 📺 [Subscribe to my YouTube channel!](https://www.youtube.com/@repostack)
 
 ---
